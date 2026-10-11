@@ -1,4 +1,4 @@
-Game is INDEV and made by Claude, bugs and issues might appear
+Game is INDEV and made by the big GPT, bugs and issues might appear
 
 
 REQUIREMENTS
